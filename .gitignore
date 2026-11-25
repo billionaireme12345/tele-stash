@@ -1,0 +1,12 @@
+.env
+venv-wzgram/
+.venv/
+.venv-wzgram/
+__pycache__/
+*.session
+*.session-journal
+*.sqlite3
+*.db
+*.log
+*.csv
+stash_export.json
