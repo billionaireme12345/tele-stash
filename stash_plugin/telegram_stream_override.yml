@@ -1,0 +1,6 @@
+﻿name: Telegram Stream Override
+description: Routes all Stash scene playback through the local-first Telegram streaming proxy.
+version: 1.0
+ui:
+  javascript:
+    - telegram_stream_override.js
